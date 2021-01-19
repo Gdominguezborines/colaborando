@@ -1,3 +1,8 @@
-public class gabriel {4
+public class gabriel {
+
+      public static void main(String[] args) {
+            // Código inicial para el ejercicio Git compartir
+
     system.out.printl("hola);
       }
+}

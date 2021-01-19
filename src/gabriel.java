@@ -3,6 +3,6 @@ public class gabriel {
       public static void main(String[] args) {
             // Código inicial para el ejercicio Git compartir
 
-    system.out.printl("hola);
+    system.out.println("hola);
       }
 }
